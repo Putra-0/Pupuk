@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046827996458",
+    "project_id": "pupuk-6ac78",
+    "storage_bucket": "pupuk-6ac78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046827996458:android:42de7d6ba56bac636e7a53",
+        "android_client_info": {
+          "package_name": "com.setik.pupuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046827996458-t3ap39iq6ba2tjif8lnbpqsb47so1i0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAE9TjfpcB2mTzz0ipfm-dp_9GdxDUw-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046827996458-t3ap39iq6ba2tjif8lnbpqsb47so1i0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
