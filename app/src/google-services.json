@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176097516740",
+    "firebase_url": "https://pupuk-4f51f-default-rtdb.firebaseio.com",
+    "project_id": "pupuk-4f51f",
+    "storage_bucket": "pupuk-4f51f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176097516740:android:a5bdc775864b34d74c7d91",
+        "android_client_info": {
+          "package_name": "com.setik.pupuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176097516740-7os1t821519qsc1fn5nsv7rn71rq97u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhKOzNsUlg-UUXfpMVChK2zmTdE1dIGPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176097516740-7os1t821519qsc1fn5nsv7rn71rq97u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

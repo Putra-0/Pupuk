@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.setik.pupuk.ui_admin.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_kios"
+        android:name="com.setik.pupuk.ui_admin.KiosFragment"
+        android:label="@string/menu_kios"
+        tools:layout="@layout/fragment_kios" />
+
+    <fragment
+        android:id="@+id/nav_pupuk"
+        android:name="com.setik.pupuk.ui_admin.PupukFragment"
+        android:label="@string/menu_pupuk"
+        tools:layout="@layout/fragment_pupuk" />
+
+    <fragment
+        android:id="@+id/nav_tebus"
+        android:name="com.setik.pupuk.ui_admin.TebusFragment"
+        android:label="@string/menu_tebus"
+        tools:layout="@layout/fragment_tebus" />
+</navigation>
